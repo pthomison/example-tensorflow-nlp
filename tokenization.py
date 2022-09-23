@@ -1,5 +1,9 @@
 #!/usr/bin/env python3
 
+# https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/TensorFlow In Practice/Course 3 - NLP/Course 3 - Week 1 - Lesson 1.ipynb
+# https://www.youtube.com/watch?v=fNxaJsNG3-s&list=PLQY2H8rRoyvzDbLUZkbudP-MFQZwNmU4S&index=1
+
+
 from tensorflow.keras.preprocessing.text import Tokenizer
 
 sentences = [
